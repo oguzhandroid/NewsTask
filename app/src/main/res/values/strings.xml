@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Donanım Haber Task</string>
+    <string name="news" translatable="false">News</string>
+    <string name="favorites" translatable="false">Favorites</string>
+    <string name="news_added" translatable="false">News added to favorites </string>
+    <string name="news_removed" translatable="false">News removed from favorites </string>
+</resources>

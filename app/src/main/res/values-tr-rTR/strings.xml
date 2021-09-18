@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Donanım Haber Task</string>
+    <string name="news" translatable="false">Haberler</string>
+    <string name="favorites" translatable="false">Favoriler</string>
+    <string name="news_added" translatable="false">Haber Favorilere eklendi</string>
+    <string name="news_removed" translatable="false">Haber favorilerden çıkarıldı</string>
+</resources>
